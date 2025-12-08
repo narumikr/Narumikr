@@ -35,7 +35,7 @@
 
 <table>
 <tr style="border: none;">
-<td style="border: none;" width="50%>
+<td style="border: none;" width="50%">
 <p style="margin: 3px;">週に1回はサウナに行く</p>
 <p style="margin: 3px;">サウナ後に食べる味濃い飯がうますぎる...</p>
 <br/>
