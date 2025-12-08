@@ -34,8 +34,8 @@
 #### **サウナ**
 
 <table>
-<tr>
-<td width="50%>
+<tr style="border: none;">
+<td style="border: none;" width="50%>
 <p style="margin: 3px;">週に1回はサウナに行く</p>
 <p style="margin: 3px;">サウナ後に食べる味濃い飯がうますぎる...</p>
 <br/>
@@ -44,7 +44,7 @@
 <p style="margin: 3px;">生姜好きならとても落ち着く大変ととのうサウナ</p>
 <p style="margin: 3px;">サ飯には1階の生姜焼き専門店で最高にキマる</p>
 </td>
-<td width="50%">
+<td style="border: none;" width="50%">
 
 ![大阪desse](./assets/desse_sauna.jpg)
 
@@ -53,13 +53,13 @@
 </table>
 
 <table>
-<tr>
-<td width="50%">
+<tr style="border: none;">
+<td style="border: none;" width="50%">
 
 ![大阪desse](./assets/the_sauna.jpg)
 
 </td>
-<td width="50%>
+<td style="border: none;" width="50%>
 <p style="margin: 3px;">今までいったサウナで一番好きなのはThe Sauna...</p>
 <p style="margin: 3px;">いや、ウェルビーの今池もサウナ室内で入る水風呂(?)がかなり良かったので捨てがたい...</p>
 <br/>
