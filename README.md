@@ -21,54 +21,53 @@
 
 ### 🍀 **_My Favorites_** 🍀![MOREMORE-JUMP-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:88dd44,100:f5f5f7)
 
-#### **プロジェクトセカイ**
+### **プロジェクトセカイ**
 
 <p style="margin: 3px;">プロセカが大好き🎶</p>
 <p style="margin: 3px;">しんどい時期があったけど、プロセカに出会って救われた</p>
 <p style="margin: 3px;">ミクちゃん、みんな！ありがとう✨</p>
-<br/>
+<br>
 <p style="margin: 3px;">感謝祭やセカライ、セカシンなどイベントごとは毎回参戦している🎵</p>
 <p style="margin: 3px;">常に進化し続けている運営さんホンマ感謝です<(_ _)></p>
 <p style="margin: 3px;">5thの感謝祭、後半の劇場曲ラッシュはさすがに声が漏れた T T</p>
 
-#### **サウナ**
+### **サウナ**
 
-<table>
-<tr style="border: none;">
-<td style="border: none;" width="50%">
-<p style="margin: 3px;">週に1回はサウナに行く</p>
-<p style="margin: 3px;">サウナ後に食べる味濃い飯がうますぎる...</p>
-<br/>
-<p style="margin: 3px;">おすすめはどこかと聞かれたら"金亀"を紹介している</p>
-<p style="margin: 3px;">サウナ室はもちろん、水風呂や飲料水、通路と至る所まで生姜の香り</p>
-<p style="margin: 3px;">生姜好きならとても落ち着く大変ととのうサウナ</p>
-<p style="margin: 3px;">サ飯には1階の生姜焼き専門店で最高にキマる</p>
-</td>
-<td style="border: none;" width="50%">
+<div>
+<img align="right" width="45%" src="./assets/desse_sauna.jpg">
 
-![大阪desse](./assets/desse_sauna.jpg)
+週に1回はサウナに行く
 
-</td>
-</tr>
-</table>
+サウナ後に食べる味濃い飯がうますぎる...
 
-<table>
-<tr style="border: none;">
-<td style="border: none;" width="50%">
+おすすめはどこかと聞かれたら"金亀"を紹介している
 
-![大阪desse](./assets/the_sauna.jpg)
+サウナ室はもちろん、水風呂や飲料水、通路と至る所生姜の香り
 
-</td>
-<td style="border: none;" width="50%>
-<p style="margin: 3px;">今までいったサウナで一番好きなのはThe Sauna...</p>
-<p style="margin: 3px;">いや、ウェルビーの今池もサウナ室内で入る水風呂(?)がかなり良かったので捨てがたい...</p>
-<br/>
-<p style="margin: 3px;">遠方の有名どころサウナも結構行ったがまだまだいけていないところはあるので、サウナ旅に出たい(￣△￣*)</p>
-<p style="margin: 3px;">北こぶしの流氷見られるサウナは今一番行きたいサウナ</p>
-<p style="margin: 3px;">誰と一緒にサウナ旅に出ようかな～楽しみや♨</p>
-</td>
-</tr>
-</table>
+生姜好きならとても落ち着く大変ととのうサウナ
+
+サ飯には1階の生姜焼き専門店で最高にキマる
+
+<br clear="right">
+</div>
+<br>
+
+<div>
+<img align="left" width="39%" style="margin-right: 15px" src="./assets/the_sauna.jpg">
+
+今までいったサウナで一番好きなのはThe Sauna...
+
+いや、ウェルビーの今池もサウナ室内で入る水風呂(?)がかなり良かったので捨てがたい...
+
+遠方の有名どころサウナも結構行ったがまだまだいけていないところはあるので、サウナ旅に出たい(￣△￣*)
+
+北こぶしの流氷見られるサウナは今一番行きたいサウナ
+
+誰と一緒にサウナ旅に出ようかな～楽しみや♨
+
+<br clear="right">
+</div>
+<br>
 
 > [!tip]
 > 大阪の大東洋でペンギンルームに入ったところ、寄りかかって休んでたおっちゃんがパイプに髪の毛張り付けて動けなくなり助けを求めるシーンに出くわしたとかしないとか...
