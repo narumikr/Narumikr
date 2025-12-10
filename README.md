@@ -19,7 +19,6 @@
 
 ###  💫 **_Introduction_** 💫![Leo/need-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3367cc,100:f5f5f7)
 
-
 C/C++の組み込み系開発に数年携わる
 
 途中Webメニュー開発に関わったことがきっかけでどハマり。仕事と並行して独学で1年ほどNext,TypeScriptをお勉強した後転向
@@ -30,7 +29,6 @@ C/C++の組み込み系開発に数年携わる
 
 ### 🎼 **_Social Media_** 🎼![Nightcord-at25-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:884499,100:f5f5f7)
 
-
 [<img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" style="margin-right: 15px" />](https://www.instagram.com/_narumikr396/)
 [<img src="https://cdn.simpleicons.org/tabelog/F2C038" width="30" style="margin-right: 15px" />](https://tabelog.com/rvwr/narunarumireview/)
 [<img src="https://cdn.simpleicons.org/pixiv/0096FA" width="30" />](https://www.pixiv.net/users/34922723)
@@ -38,7 +36,6 @@ C/C++の組み込み系開発に数年携わる
 推し旅した場所、グルメをインスタ、食べログに投稿始めた🎵
 
 イラストは今はもう描いていないけど、昔頑張っていたのでせっかくなので🎨
-
 
 ### 🍀 **_My Favorites_** 🍀![MOREMORE-JUMP-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:88dd44,100:f5f5f7)
 
