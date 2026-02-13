@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./assets/prsk_header.jpg" width="100%" alt="prsk header" />
-  <h1 style="font-size: 39px; margin: 10px 0;">⭓⬠ Hello! there! ⬟⭔</h1>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=33ccba&text=⭓⬠%20Hello!%20there!%20⬟⭔&fontSize=40&height=80" />
   <p>I'm going to tell you a little about myself.!</p>
 </div>
 
@@ -16,8 +16,11 @@
   - [**アークナイツ / エンドフィールド**](#アークナイツ--エンドフィールド)
   - [**旅行 / 食べること**](#旅行--食べること)
 - [🎤 **_Gallery_** 🎤](#-gallery-)
+- [💚 **_Special Thanks_** 💚](#-special-thanks-)
 
 </details>
+
+![](./profile-3d-contrib/profile-season.svg)
 
 ###  💫 **_Introduction_** 💫![Leo/need-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3367cc,100:f5f5f7)
 
@@ -202,3 +205,10 @@ C/C++の組み込み系開発に数年携わる
 </div>
 <br clear="right">
 </details>
+
+![Wonderlands-Showtime-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff9900,100:f5f5f7)
+
+### 💚 **_Special Thanks_** 💚
+
+- [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
+- [capsule-render](https://github.com/kyechan99/capsule-render)
