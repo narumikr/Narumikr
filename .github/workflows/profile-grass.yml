@@ -14,15 +14,11 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-      - name: Load settings
-        id: load_settings
-        run: |
-          echo "SETTING_JSON=$(jq -c . .github/scripts/profile-grass-setting.json)" >> $GITHUB_ENV
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: ${{ env.SETTING_JSON }}
+          SETTING_JSON: .github/scripts/profile-grass-setting.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
