@@ -191,9 +191,9 @@ C/C++の組み込み系開発に数年携わる
 ### 🎤 **_Gallery_** 🎤![Vivid-BAD-SQUAD-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ee1166,100:f5f5f7)
 
 <div>
-<img align="left" width="30%" style="margin-right: 15px" src="./assets/regulus.jpg">
-<img align="left" width="30%" style="margin-right: 15px" src="./assets/waterfall.jpg">
-<img align="left" width="30%" src="./assets/arknights_endfield.jpg">
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/gallery/regulus.jpg">
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/gallery/waterfall.jpg">
+<img align="left" width="30%" src="./assets/gallery/arknights_endfield.jpg">
 <br clear="left">
 </div>
 
@@ -202,17 +202,17 @@ C/C++の組み込み系開発に数年携わる
 <details><summary>and more...</summary>
 <br>
 <div>
-<img align="left" width="30%" style="margin-right: 15px" src="./assets/ancel.jpg">
-<img align="left" width="30%" style="margin-right: 15px" src="./assets/amiya.jpg">
-<img align="left" width="30%" src="./assets/banpaku.jpg">
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/gallery/ancel.jpg">
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/gallery/amiya.jpg">
+<img align="left" width="30%" src="./assets/gallery/banpaku.jpg">
 </div>
 <br clear="left">
 
 <br>
 <div style="margin-top: 15px">
-<img align="left" width="30%" style="margin-right: 15px" src="./assets/sushi-sekai.jpg">
-<img align="left" width="30%" style="margin-right: 15px" src="./assets/sekai-temple.jpg">
-<img align="left" width="30%" src="./assets/gakumasu.jpg">
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/gallery/sushi-sekai.jpg">
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/gallery/sekai-temple.jpg">
+<img align="left" width="30%" src="./assets/gallery/gakumasu.jpg">
 </div>
 <br clear="left">
 </details>
