@@ -20,8 +20,8 @@ GALLERY_DIR = ROOT / "assets" / "gallery"
 README = ROOT / "README.md"
 IMG_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
 
-START_MARKER = "<!-- GALLERY:START -->"
-END_MARKER = "<!-- GALLERY:END -->"
+START_MARKER = "<!-- GALLERY Auto Generate:START -->"
+END_MARKER = "<!-- GALLERY Auto Generate:END -->"
 
 TOP_ROW_COUNT = 3
 DETAILS_ROW_COUNT = 4
@@ -68,33 +68,33 @@ def render_gallery(images: list[Path]) -> str:
         parts.append("<br>")
         for row in chunk(rest, DETAILS_ROW_COUNT):
             parts.append(render_row(row, DETAILS_ROW_COUNT))
+            parts.append("<br>")
             parts.append("")
         parts.append("</details>")
 
     return "\n".join(parts)
 
 
-def update_readme(gallery_html: str) -> None:
-    text = README.read_text(encoding="utf-8")
-    pattern = re.compile(
-        re.escape(START_MARKER) + r".*?" + re.escape(END_MARKER),
-        re.DOTALL,
-    )
-    replacement = f"{START_MARKER}\n{gallery_html}\n{END_MARKER}"
-    new_text, n = pattern.subn(replacement, text)
-    if n == 0:
-        sys.exit(f"markers not found in {README}")
-    README.write_text(new_text, encoding="utf-8")
-    print(f"updated {README} ({len(gallery_html)} chars in gallery block)")
-
-
 def main() -> None:
     images = list_images()
     if not images:
         sys.exit(f"no images found in {GALLERY_DIR}")
-    print(f"found {len(images)} image(s)")
-    html = render_gallery(images)
-    update_readme(html)
+
+    gallery = render_gallery(images)
+    original = README.read_text(encoding="utf-8")
+
+    pattern = re.compile(
+        re.escape(START_MARKER) + r".*?" + re.escape(END_MARKER),
+        re.DOTALL,
+    )
+    replacement = f"{START_MARKER}\n{gallery}\n{END_MARKER}"
+    updated, count = pattern.subn(lambda _m: replacement, original, count=1)
+    if count == 0:
+        sys.exit(f"markers not found in {README}")
+
+    if updated != original:
+        README.write_text(updated, encoding="utf-8")
+    print("\n💫 Completed generate README gallery section.")
 
 
 if __name__ == "__main__":
