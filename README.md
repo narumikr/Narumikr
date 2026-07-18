@@ -190,10 +190,11 @@ C/C++の組み込み系開発に数年携わる
 
 ### 🎤 **_Gallery_** 🎤![Vivid-BAD-SQUAD-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ee1166,100:f5f5f7)
 
+<!-- GALLERY Auto Generate:START -->
 <div>
-<img align="left" width="30%" style="margin-right: 15px" src="./assets/regulus.jpg">
-<img align="left" width="30%" style="margin-right: 15px" src="./assets/waterfall.jpg">
-<img align="left" width="30%" src="./assets/arknights_endfield.jpg">
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/gallery/ichisaki_tomonoura.jpg">
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/gallery/sekasymphony_osaka.jpg">
+<img align="left" width="30%" src="./assets/gallery/camera_oshikatu.jpg">
 <br clear="left">
 </div>
 
@@ -202,20 +203,49 @@ C/C++の組み込み系開発に数年携わる
 <details><summary>and more...</summary>
 <br>
 <div>
-<img align="left" width="30%" style="margin-right: 15px" src="./assets/ancel.jpg">
-<img align="left" width="30%" style="margin-right: 15px" src="./assets/amiya.jpg">
-<img align="left" width="30%" src="./assets/banpaku.jpg">
-</div>
+<img align="left" width="22%" style="margin-right: 15px" src="./assets/gallery/airi_birthday.jpg">
+<img align="left" width="22%" style="margin-right: 15px" src="./assets/gallery/tabinikaeru.jpg">
+<img align="left" width="22%" style="margin-right: 15px" src="./assets/gallery/sekaisymphony_yokohama2.jpg">
+<img align="left" width="22%" src="./assets/gallery/funmtg_sendai2.jpg">
 <br clear="left">
-
+</div>
 <br>
-<div style="margin-top: 15px">
-<img align="left" width="30%" style="margin-right: 15px" src="./assets/sushi-sekai.jpg">
-<img align="left" width="30%" style="margin-right: 15px" src="./assets/sekai-temple.jpg">
-<img align="left" width="30%" src="./assets/gakumasu.jpg">
-</div>
+
+<div>
+<img align="left" width="22%" style="margin-right: 15px" src="./assets/gallery/funmtg_sendai.jpg">
+<img align="left" width="22%" style="margin-right: 15px" src="./assets/gallery/sekaisymphony_yokohama.jpg">
+<img align="left" width="22%" style="margin-right: 15px" src="./assets/gallery/hoshinocoffee.jpg">
+<img align="left" width="22%" src="./assets/gallery/sauna_yamanashi.jpg">
 <br clear="left">
+</div>
+<br>
+
+<div>
+<img align="left" width="22%" style="margin-right: 15px" src="./assets/gallery/sushi-sekai.jpg">
+<img align="left" width="22%" style="margin-right: 15px" src="./assets/gallery/sekai-temple.jpg">
+<img align="left" width="22%" style="margin-right: 15px" src="./assets/gallery/gakumasu.jpg">
+<img align="left" width="22%" src="./assets/gallery/arknights_endfield.jpg">
+<br clear="left">
+</div>
+<br>
+
+<div>
+<img align="left" width="22%" style="margin-right: 15px" src="./assets/gallery/ancel.jpg">
+<img align="left" width="22%" style="margin-right: 15px" src="./assets/gallery/amiya.jpg">
+<img align="left" width="22%" style="margin-right: 15px" src="./assets/gallery/waterfall.jpg">
+<img align="left" width="22%" src="./assets/gallery/banpaku.jpg">
+<br clear="left">
+</div>
+<br>
+
+<div>
+<img align="left" width="22%" src="./assets/gallery/regulus.jpg">
+<br clear="left">
+</div>
+<br>
+
 </details>
+<!-- GALLERY Auto Generate:END -->
 
 ![Wonderlands-Showtime-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff9900,100:f5f5f7)
 
